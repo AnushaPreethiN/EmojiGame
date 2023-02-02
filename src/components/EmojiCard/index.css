@@ -1,0 +1,7 @@
+/* Write your code here. */
+.emoji-item {
+  list-style: none;
+  background-color: #9796f0;
+  flex-wrap: wrap;
+  flex-shrink: initial;
+}
